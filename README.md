@@ -25,6 +25,10 @@ Déplacement du fichier bacularis
 $ mv bacularis-nginx.conf /etc/nginx/sites-available/bacularis.conf
 $ ln -s /etc/nginx/sites-available/bacularis.conf /etc/nginx/sites-enabled
 ```
+Lien du navigateur
+```bash
+# http://host:9097
+```
 ligne de commande à copier sur l'interface web de Bacularis
 ```bash
 $ nano /etc/sudoers.d/bacularis
