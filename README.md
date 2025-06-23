@@ -1,5 +1,8 @@
 # Ligne de commande Bacularis Debian 12
 
+<p align = 'center'>
+<img src ="https://github.com/user-attachments/assets/caecd422-a98f-4fe4-9a3f-c35a117254ab" weight =200>
+
 Installation de Bacula et de nginx
 ```bash
 $ apt install bacula
